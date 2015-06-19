@@ -1,0 +1,72 @@
+<style>
+
+#wrap {
+    height: 100%;
+    weight: 100%;
+/*    background-image: http://www.glowsticksltd.com.au/blog/wp-content/uploads/2012/02/carols3.jpg;*/
+    position: relative;
+}
+
+#wrap img {
+    height: 100%;
+    width: 100%;
+}
+
+.button {
+    display: inline-block;
+    border-radius: 500px;
+    background-color: black;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.button:hover {
+}
+
+#middle {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    position: absolute;
+}
+
+#middle > h1 {
+    text-align: center;
+    color: white;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+}
+
+#left {
+    height: 100%;
+    width: 100%;
+    background-color: bisque;
+}
+
+#right {
+    height: 100%;
+    width: 100%;
+    background-color:blueviolet;
+}
+
+#map-canvas {
+    height: 100%;
+    width: 100%:
+}
+
+#blurred {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+
+
+
+
+</style>
